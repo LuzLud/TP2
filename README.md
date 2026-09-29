@@ -2,4 +2,3 @@ TP N2 UDI
 Godoy Ludmila - LuzLud
 Trucco Maximo - maximotrucco
 Petruk Maximo - maximickey123
-Descripcion del proyecto - maximotrucco
