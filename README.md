@@ -1,4 +1,4 @@
-TP N2 UDI
+TRABAJO PRACTICO GRUPAL
 Godoy Ludmila - LuzLud
 Trucco Maximo - maximotrucco
 Petruk Maximo - maximickey123
