@@ -4,3 +4,4 @@ FUNCIONALIDADES DEL PROYECTO
 - Trabajo colaborativo mediante ramas.
 - Uso de commits para registrar cambios.
 - Integración de cambios mediante Pull Requests.
+- Herramientas utilizadas: Control de versiones con Git, edicion y gestion de codigo con VS code
