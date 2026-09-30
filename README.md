@@ -1,10 +1,5 @@
-TP 2 UDI
-Ludmila Godoy
-Máximo Trucco
-Máximo Petruk
-
-LuzLud
-maximotrucco
-maximickey123
-
-el proyecto de la chancha
+TP N2 UDI
+Godoy Ludmila - LuzLud
+Trucco Maximo - maximotrucco
+Petruk Maximo - maximickey123
+Esta es una descripcion del proyecto (maximotrucco)
