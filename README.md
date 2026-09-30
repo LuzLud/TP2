@@ -1,4 +1,4 @@
-TP N2 UDI
+TP N2 UDI - TP DE GITHUB
 Integrantes (LudLuz)
 Godoy Ludmila - LuzLud
 Trucco Maximo - maximotrucco
