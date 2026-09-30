@@ -1,3 +1,4 @@
 CONFIGURACIÓN DEL PROYECTO (LuzLud)
 Esta es una funcionalidad del proyecto (maximotrucco)
 Esta es una nueva funcionalidad para hacer un pull request (maximotrucco)
+Parametros del proyecto: Idioma predeterminado: Español. Modo de ejecucion: Desarrollo.
